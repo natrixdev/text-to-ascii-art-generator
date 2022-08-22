@@ -2,6 +2,9 @@
 
 Simple text to ascii converter using python3' art module
 
+## Setup
+`pip install pyfiglet`
+
 ## Output for a "art" text 
 ```
                _   
